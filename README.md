@@ -21,7 +21,7 @@
 
 ## Preview
  * MENU COMMANDS
-<img width="400" src="https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/preview.png">
+<img width="350" src="https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/preview.png">
 
  * CONTEXT MENU
-<img width="400" src="https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/context.png">
+<img width="350" src="https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/context.png">
