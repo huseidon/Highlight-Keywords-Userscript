@@ -7,7 +7,7 @@
     * [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-brightgreen.svg)](https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
     * [![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
-  *Install UserScript
+  * Install UserScript
     * [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install-blue.svg)](https://greasyfork.org/scripts/511761-highlight-keywords)
 
 ## Information
@@ -20,8 +20,8 @@
  * Change highlight color ( Default color #5ae31b )
 
 ## Preview
- * MENU COMMANDS
+ * Menu commands
 <img width="350" src="https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/preview.png">
 
- * CONTEXT MENU
+ * Context menu
 <img width="350" src="https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/context.png">
