@@ -3,7 +3,7 @@
 // @namespace     HUSEIDON
 // @version       1.0
 // @description   Highlights predefined keywords with Ctrl+Right-Click options to manage keywords.
-// @icon          https://raw.githubusercontent.com/huseidon/highlight-keywords-userscript/refs/heads/main/img/icon.svg
+// @icon          https://raw.githubusercontent.com/huseidon/Highlight-Keywords-Userscript/refs/heads/huseidon/img/icon.svg
 // @match         *://*/*
 // @grant         GM_registerMenuCommand
 // @grant         GM_setValue
