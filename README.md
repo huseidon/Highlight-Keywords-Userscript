@@ -8,7 +8,7 @@
     * [![Firefox Add-ons](https://img.shields.io/badge/Firefox%20Add--ons-Install-orange.svg)](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
   *Install UserScript
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install-blue.svg)](https://greasyfork.org/scripts/511761-highlight-keywords)
+    * [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-Install-blue.svg)](https://greasyfork.org/scripts/511761-highlight-keywords)
 
 ## Information
  * Highlights predefined keywords with Ctrl+Right-Click options to manage keywords.
