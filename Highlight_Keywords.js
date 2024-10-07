@@ -10,6 +10,8 @@
 // @grant         GM_getValue
 // @grant         GM_listValues
 // @grant         GM_addStyle
+// @downloadURL https://update.greasyfork.org/scripts/511761/Highlight%20Keywords.user.js
+// @updateURL https://update.greasyfork.org/scripts/511761/Highlight%20Keywords.meta.js
 // ==/UserScript==
 
 (async function() {
